@@ -22,5 +22,6 @@ def main():
 	ipmatch();
 
 
+#this is the entry point of the program
 if __name__ == '__main__':
 	main()
